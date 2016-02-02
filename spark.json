@@ -6,7 +6,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/LowPowerLab/SFE_BMP180.git"
+    "url": "https://github.com/catolina/SFE_BMP180_spark.git"
   },
   "frameworks": "arduino",
   "platforms": "atmelavr"
