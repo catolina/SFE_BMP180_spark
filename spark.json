@@ -1,7 +1,13 @@
 {
-  "name": "spark-sfe_bmp180",
-  "author": "Mike Grusin",
-  "license": "MIT",
-  "version": "1.0",
-  "description": "Bosch BMP180 pressure sensor library for the Arduino microcontroller",
-  }
+{
+  "name": "BMP180",
+  "keywords": "BMP180, barometric, pressure, atmospheric, sensor, i2c",
+  "description": "Library for BMP180 barometric atmospheric pressure sensor, derived from Sparkfun's version with some added fixes",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/LowPowerLab/SFE_BMP180.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
