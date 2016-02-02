@@ -1,0 +1,7 @@
+{
+  "name": "spark-sfe_bmp180",
+  "author": "Mike Grusin",
+  "license": "MIT",
+  "version": "1.0",
+  "description": "Bosch BMP180 pressure sensor library for the Arduino microcontroller",
+  }
