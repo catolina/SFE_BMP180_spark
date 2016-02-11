@@ -19,7 +19,6 @@
 #ifndef SFE_BMP180_h
 #define SFE_BMP180_h
 
-#if defined(ARDUINO) && ARDUINO >= 100
 #if defined (SPARK)
   #include "application.h"
 #else
