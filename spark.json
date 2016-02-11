@@ -1,5 +1,5 @@
 {
-  "name": "BMP180",
+  "name": "SFE_BMP180",
   "author": "Mike Grusin, SparkFun Electronics",
   "version": "1.0.0",
   "keywords": "BMP180, barometric, pressure, atmospheric, sensor, i2c",
