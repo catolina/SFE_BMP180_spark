@@ -1,5 +1,4 @@
 {
-{
   "name": "BMP180",
   "keywords": "BMP180, barometric, pressure, atmospheric, sensor, i2c",
   "description": "Library for BMP180 barometric atmospheric pressure sensor, derived from Sparkfun's version with some added fixes",
