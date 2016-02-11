@@ -16,8 +16,7 @@
 	buy me a (root) beer someday.
 */
 
-#include <SFE_BMP180.h>
-#include <Wire.h>
+#include "SFE_BMP180.h"
 #include <stdio.h>
 #include <math.h>
 
